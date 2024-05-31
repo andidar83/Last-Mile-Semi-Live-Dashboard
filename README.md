@@ -1,0 +1,1 @@
+This script is one of the many scripts (devided by region) used to pull data from our data source then process it as an input for Last Mile Dashboard which aims to monitor active parcel progression in last mile ex.number of attempts, number of arrived at sorting hub,granlar status of active parcels etc.
